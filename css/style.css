@@ -15,19 +15,23 @@ img{
     border: none;
     padding: 15px;
 }
-.first{
-    background-color: lightgoldenrodyellow;
+#container{
+    .first{
+        background-color: lightgoldenrodyellow;
+    }
+    .second{
+        background: lightblue;
+    }
+    .third{
+        background-color: lightcoral;
+    }
 }
-.second{
-    background: lightblue;
-}
-.third{
-    background-color: lightcoral;
-}
+
 .first, .second, .third{
     display: flex;
     justify-content: space-evenly;
 }
+
 footer{
     background-color: lightgreen;
     display: flex;
