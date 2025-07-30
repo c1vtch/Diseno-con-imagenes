@@ -1,0 +1,1 @@
+### CORE - Diseno con imagenes
